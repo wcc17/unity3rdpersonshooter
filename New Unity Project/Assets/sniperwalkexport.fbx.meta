@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: b46006ff7bf38c346a55be612be4a0d1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: chest
+    100002: head
+    100004: heavytexturing:pCube2
+    100006: heavytexturing:regguywalk:newest:pCube2
+    100008: heavytexturing:regguywalk:newest:pCube3
+    100010: heavytexturing:regguywalk:newest:transform2
+    100012: heavytexturing:regguywalk:newest:transform3
+    100014: heavytexturing:regguywalk:newest:transform4
+    100016: heavytexturing:regguywalk:newest:transform5
+    100018: heavytexturing:regguywalk:pCube3
+    100020: heavytexturing:regguywalk:pistol:pCube1
+    100022: heavytexturing:regguywalk:pistol:pCube2
+    100024: heavytexturing:regguywalk:pistol:pCube3
+    100026: heavytexturing:regguywalk:pistol:pCylinder1
+    100028: heavytexturing:regguywalk:pistol:pTorus1
+    100030: heavytexturing:regguywalk:pistol:transform1
+    100032: heavytexturing:regguywalk:pistol:transform2
+    100034: heavytexturing:regguywalk:pistol:transform3
+    100036: heavytexturing:regguywalk:pistol:transform4
+    100038: heavytexturing:transform2
+    100040: ikHandle10
+    100042: ikHandle11
+    100044: ikHandle12
+    100046: ikHandle13
+    100048: ikHandle14
+    100050: ikHandle15
+    100052: ikHandle16
+    100054: ikHandle17
+    100056: ikHandle18
+    100058: ikHandle19
+    100060: ikHandle20
+    100062: ikHandle21
+    100064: ikHandle22
+    100066: ikHandle23
+    100068: ikHandle24
+    100070: ikHandle25
+    100072: ikHandle26
+    100074: ikHandle27
+    100076: ikHandle28
+    100078: ikHandle29
+    100080: ikHandle30
+    100082: ikHandle31
+    100084: ikHandle32
+    100086: ikHandle33
+    100088: ikHandle34
+    100090: ikHandle35
+    100092: ikHandle36
+    100094: ikHandle37
+    100096: ikHandle38
+    100098: ikHandle7
+    100100: ikHandle8
+    100102: ikHandle9
+    100104: leftankle
+    100106: leftelbow
+    100108: leftfoot
+    100110: lefthand
+    100112: leftknee
+    100114: leftleg
+    100116: leftshoulder
+    100118: neck
+    100120: newest:pCube2
+    100122: newest:transform2
+    100124: pCube2
+    100126: pCube3
+    100128: regguyreadytoanim:newest:pCube2
+    100130: regguyreadytoanim:newest:pCube3
+    100132: regguyreadytoanim:newest:transform2
+    100134: regguyreadytoanim:newest:transform3
+    100136: regguyreadytoanim:newest:transform4
+    100138: regguyreadytoanim:newest:transform5
+    100140: regguyreadytoanim:pCube3
+    100142: regguyreadytoanim:pistol:pCube1
+    100144: regguyreadytoanim:pistol:pCube2
+    100146: regguyreadytoanim:pistol:pCube3
+    100148: regguyreadytoanim:pistol:pCylinder1
+    100150: regguyreadytoanim:pistol:pTorus1
+    100152: regguyreadytoanim:pistol:transform1
+    100154: regguyreadytoanim:pistol:transform2
+    100156: regguyreadytoanim:pistol:transform3
+    100158: regguyreadytoanim:pistol:transform4
+    100160: regguywalk:newest:pCube2
+    100162: regguywalk:newest:transform2
+    100164: rightankle
+    100166: rightelbow
+    100168: rightfoot
+    100170: righthand
+    100172: righthsoulder
+    100174: rightknee
+    100176: rightleg
+    100178: sniperrifle:pCube4
+    100180: //RootNode
+    100182: stomach
+    100184: torso
+    100186: transform1
+    400000: chest
+    400002: head
+    400004: heavytexturing:pCube2
+    400006: heavytexturing:regguywalk:newest:pCube2
+    400008: heavytexturing:regguywalk:newest:pCube3
+    400010: heavytexturing:regguywalk:newest:transform2
+    400012: heavytexturing:regguywalk:newest:transform3
+    400014: heavytexturing:regguywalk:newest:transform4
+    400016: heavytexturing:regguywalk:newest:transform5
+    400018: heavytexturing:regguywalk:pCube3
+    400020: heavytexturing:regguywalk:pistol:pCube1
+    400022: heavytexturing:regguywalk:pistol:pCube2
+    400024: heavytexturing:regguywalk:pistol:pCube3
+    400026: heavytexturing:regguywalk:pistol:pCylinder1
+    400028: heavytexturing:regguywalk:pistol:pTorus1
+    400030: heavytexturing:regguywalk:pistol:transform1
+    400032: heavytexturing:regguywalk:pistol:transform2
+    400034: heavytexturing:regguywalk:pistol:transform3
+    400036: heavytexturing:regguywalk:pistol:transform4
+    400038: heavytexturing:transform2
+    400040: ikHandle10
+    400042: ikHandle11
+    400044: ikHandle12
+    400046: ikHandle13
+    400048: ikHandle14
+    400050: ikHandle15
+    400052: ikHandle16
+    400054: ikHandle17
+    400056: ikHandle18
+    400058: ikHandle19
+    400060: ikHandle20
+    400062: ikHandle21
+    400064: ikHandle22
+    400066: ikHandle23
+    400068: ikHandle24
+    400070: ikHandle25
+    400072: ikHandle26
+    400074: ikHandle27
+    400076: ikHandle28
+    400078: ikHandle29
+    400080: ikHandle30
+    400082: ikHandle31
+    400084: ikHandle32
+    400086: ikHandle33
+    400088: ikHandle34
+    400090: ikHandle35
+    400092: ikHandle36
+    400094: ikHandle37
+    400096: ikHandle38
+    400098: ikHandle7
+    400100: ikHandle8
+    400102: ikHandle9
+    400104: leftankle
+    400106: leftelbow
+    400108: leftfoot
+    400110: lefthand
+    400112: leftknee
+    400114: leftleg
+    400116: leftshoulder
+    400118: neck
+    400120: newest:pCube2
+    400122: newest:transform2
+    400124: pCube2
+    400126: pCube3
+    400128: regguyreadytoanim:newest:pCube2
+    400130: regguyreadytoanim:newest:pCube3
+    400132: regguyreadytoanim:newest:transform2
+    400134: regguyreadytoanim:newest:transform3
+    400136: regguyreadytoanim:newest:transform4
+    400138: regguyreadytoanim:newest:transform5
+    400140: regguyreadytoanim:pCube3
+    400142: regguyreadytoanim:pistol:pCube1
+    400144: regguyreadytoanim:pistol:pCube2
+    400146: regguyreadytoanim:pistol:pCube3
+    400148: regguyreadytoanim:pistol:pCylinder1
+    400150: regguyreadytoanim:pistol:pTorus1
+    400152: regguyreadytoanim:pistol:transform1
+    400154: regguyreadytoanim:pistol:transform2
+    400156: regguyreadytoanim:pistol:transform3
+    400158: regguyreadytoanim:pistol:transform4
+    400160: regguywalk:newest:pCube2
+    400162: regguywalk:newest:transform2
+    400164: rightankle
+    400166: rightelbow
+    400168: rightfoot
+    400170: righthand
+    400172: righthsoulder
+    400174: rightknee
+    400176: rightleg
+    400178: sniperrifle:pCube4
+    400180: //RootNode
+    400182: stomach
+    400184: torso
+    400186: transform1
+    2300000: sniperrifle:pCube4
+    3300000: sniperrifle:pCube4
+    4300000: pCube3
+    4300002: sniperrifle:pCube4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube3
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: chest
+        weight: 1
+      - path: chest/leftshoulder
+        weight: 1
+      - path: chest/leftshoulder/leftelbow
+        weight: 1
+      - path: chest/leftshoulder/leftelbow/lefthand
+        weight: 1
+      - path: chest/neck
+        weight: 1
+      - path: chest/neck/head
+        weight: 1
+      - path: chest/righthsoulder
+        weight: 1
+      - path: chest/righthsoulder/rightelbow
+        weight: 1
+      - path: chest/righthsoulder/rightelbow/righthand
+        weight: 1
+      - path: chest/stomach
+        weight: 1
+      - path: chest/stomach/torso
+        weight: 1
+      - path: chest/stomach/torso/leftleg
+        weight: 1
+      - path: chest/stomach/torso/leftleg/leftknee
+        weight: 1
+      - path: chest/stomach/torso/leftleg/leftknee/leftankle
+        weight: 1
+      - path: chest/stomach/torso/leftleg/leftknee/leftankle/leftfoot
+        weight: 1
+      - path: chest/stomach/torso/rightleg
+        weight: 1
+      - path: chest/stomach/torso/rightleg/rightknee
+        weight: 1
+      - path: chest/stomach/torso/rightleg/rightknee/rightankle
+        weight: 1
+      - path: chest/stomach/torso/rightleg/rightknee/rightankle/rightfoot
+        weight: 1
+      - path: heavytexturing:pCube2
+        weight: 1
+      - path: heavytexturing:pCube2/heavytexturing:transform2
+        weight: 1
+      - path: heavytexturing:regguywalk:newest:pCube2
+        weight: 1
+      - path: heavytexturing:regguywalk:newest:pCube2/heavytexturing:regguywalk:newest:transform2
+        weight: 1
+      - path: heavytexturing:regguywalk:newest:pCube3
+        weight: 1
+      - path: heavytexturing:regguywalk:newest:pCube3/heavytexturing:regguywalk:newest:transform5
+        weight: 1
+      - path: heavytexturing:regguywalk:pCube3
+        weight: 1
+      - path: heavytexturing:regguywalk:pCube3/heavytexturing:regguywalk:newest:transform3
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCube1
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCube1/heavytexturing:regguywalk:pistol:transform4
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCube2
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCube2/heavytexturing:regguywalk:pistol:transform3
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCube3
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCube3/heavytexturing:regguywalk:newest:transform4
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCylinder1
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pCylinder1/heavytexturing:regguywalk:pistol:transform2
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pTorus1
+        weight: 1
+      - path: heavytexturing:regguywalk:pistol:pTorus1/heavytexturing:regguywalk:pistol:transform1
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: ikHandle8
+        weight: 1
+      - path: ikHandle9
+        weight: 1
+      - path: ikHandle10
+        weight: 1
+      - path: ikHandle11
+        weight: 1
+      - path: ikHandle12
+        weight: 1
+      - path: ikHandle13
+        weight: 1
+      - path: ikHandle14
+        weight: 1
+      - path: ikHandle15
+        weight: 1
+      - path: ikHandle16
+        weight: 1
+      - path: ikHandle17
+        weight: 1
+      - path: ikHandle18
+        weight: 1
+      - path: ikHandle19
+        weight: 1
+      - path: ikHandle20
+        weight: 1
+      - path: ikHandle21
+        weight: 1
+      - path: ikHandle22
+        weight: 1
+      - path: ikHandle23
+        weight: 1
+      - path: ikHandle24
+        weight: 1
+      - path: ikHandle25
+        weight: 1
+      - path: ikHandle26
+        weight: 1
+      - path: ikHandle27
+        weight: 1
+      - path: ikHandle28
+        weight: 1
+      - path: ikHandle29
+        weight: 1
+      - path: ikHandle30
+        weight: 1
+      - path: ikHandle31
+        weight: 1
+      - path: ikHandle32
+        weight: 1
+      - path: ikHandle33
+        weight: 1
+      - path: ikHandle34
+        weight: 1
+      - path: ikHandle35
+        weight: 1
+      - path: ikHandle36
+        weight: 1
+      - path: ikHandle37
+        weight: 1
+      - path: ikHandle38
+        weight: 1
+      - path: newest:pCube2
+        weight: 1
+      - path: newest:pCube2/newest:transform2
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: regguyreadytoanim:newest:pCube2
+        weight: 1
+      - path: regguyreadytoanim:newest:pCube2/regguyreadytoanim:newest:transform2
+        weight: 1
+      - path: regguyreadytoanim:newest:pCube3
+        weight: 1
+      - path: regguyreadytoanim:newest:pCube3/regguyreadytoanim:newest:transform5
+        weight: 1
+      - path: regguyreadytoanim:pCube3
+        weight: 1
+      - path: regguyreadytoanim:pCube3/regguyreadytoanim:newest:transform3
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCube1
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCube1/regguyreadytoanim:pistol:transform4
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCube2
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCube2/regguyreadytoanim:pistol:transform3
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCube3
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCube3/regguyreadytoanim:newest:transform4
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCylinder1
+        weight: 1
+      - path: regguyreadytoanim:pistol:pCylinder1/regguyreadytoanim:pistol:transform2
+        weight: 1
+      - path: regguyreadytoanim:pistol:pTorus1
+        weight: 1
+      - path: regguyreadytoanim:pistol:pTorus1/regguyreadytoanim:pistol:transform1
+        weight: 1
+      - path: regguywalk:newest:pCube2
+        weight: 1
+      - path: regguywalk:newest:pCube2/regguywalk:newest:transform2
+        weight: 1
+      - path: sniperrifle:pCube4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

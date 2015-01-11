@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 563aa1e93e23d4c419b5cda63057cf80
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: head
+    100002: ikHandle10
+    100004: ikHandle11
+    100006: ikHandle12
+    100008: ikHandle13
+    100010: ikHandle14
+    100012: ikHandle15
+    100014: ikHandle16
+    100016: ikHandle17
+    100018: ikHandle18
+    100020: ikHandle19
+    100022: ikHandle7
+    100024: ikHandle8
+    100026: ikHandle9
+    100028: joint1
+    100030: joint2
+    100032: joint3
+    100034: joint4
+    100036: joint5
+    100038: joint6
+    100040: leftarm
+    100042: leftelbow
+    100044: lefthand
+    100046: leftleg
+    100048: neck
+    100050: newest:pCube2
+    100052: newest:pCube4
+    100054: newest:transform2
+    100056: //RootNode
+    100058: rightarm
+    100060: rightelbow
+    100062: righthand
+    100064: rightleg
+    100066: root
+    100068: torso
+    400000: head
+    400002: ikHandle10
+    400004: ikHandle11
+    400006: ikHandle12
+    400008: ikHandle13
+    400010: ikHandle14
+    400012: ikHandle15
+    400014: ikHandle16
+    400016: ikHandle17
+    400018: ikHandle18
+    400020: ikHandle19
+    400022: ikHandle7
+    400024: ikHandle8
+    400026: ikHandle9
+    400028: joint1
+    400030: joint2
+    400032: joint3
+    400034: joint4
+    400036: joint5
+    400038: joint6
+    400040: leftarm
+    400042: leftelbow
+    400044: lefthand
+    400046: leftleg
+    400048: neck
+    400050: newest:pCube2
+    400052: newest:pCube4
+    400054: newest:transform2
+    400056: //RootNode
+    400058: rightarm
+    400060: rightelbow
+    400062: righthand
+    400064: rightleg
+    400066: root
+    400068: torso
+    4300000: newest:pCube4
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: newest:pCube4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: ikHandle8
+        weight: 1
+      - path: ikHandle9
+        weight: 1
+      - path: ikHandle10
+        weight: 1
+      - path: ikHandle11
+        weight: 1
+      - path: ikHandle12
+        weight: 1
+      - path: ikHandle13
+        weight: 1
+      - path: ikHandle14
+        weight: 1
+      - path: ikHandle15
+        weight: 1
+      - path: ikHandle16
+        weight: 1
+      - path: ikHandle17
+        weight: 1
+      - path: ikHandle18
+        weight: 1
+      - path: ikHandle19
+        weight: 1
+      - path: newest:pCube2
+        weight: 1
+      - path: newest:pCube2/newest:transform2
+        weight: 1
+      - path: newest:pCube4
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/leftarm
+        weight: 1
+      - path: root/leftarm/leftelbow
+        weight: 1
+      - path: root/leftarm/leftelbow/lefthand
+        weight: 1
+      - path: root/neck
+        weight: 1
+      - path: root/neck/head
+        weight: 1
+      - path: root/rightarm
+        weight: 1
+      - path: root/rightarm/rightelbow
+        weight: 1
+      - path: root/rightarm/rightelbow/righthand
+        weight: 1
+      - path: root/torso
+        weight: 1
+      - path: root/torso/leftleg
+        weight: 1
+      - path: root/torso/leftleg/joint1
+        weight: 1
+      - path: root/torso/leftleg/joint1/joint2
+        weight: 1
+      - path: root/torso/leftleg/joint1/joint2/joint6
+        weight: 1
+      - path: root/torso/rightleg
+        weight: 1
+      - path: root/torso/rightleg/joint3
+        weight: 1
+      - path: root/torso/rightleg/joint3/joint4
+        weight: 1
+      - path: root/torso/rightleg/joint3/joint4/joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
